@@ -101,7 +101,7 @@ const Footer = () => {
 
         <div className="flex flex-col text-right relative translate-y-10">
           <a
-            href="https://github.com/Stanley-Wang910"
+            href="https://github.com/stanley-utf8"
             target="_blank"
             rel="noopener noreferrer"
             className=" relative inline-block text-gray-400 hover:text-custom-brown transition-all duration-300 hover:translate-x-[-5px] "
@@ -109,7 +109,7 @@ const Footer = () => {
             GitHub |
           </a>
           <a
-            href="https://www.linkedin.com/in/stanley910/"
+            href="https://www.linkedin.com/in/stanley-utf8/"
             target="_blank"
             rel="noopener noreferrer"
             className=" relative inline-block text-gray-400 hover:text-custom-brown transition-all duration-300 hover:translate-x-[-5px] "

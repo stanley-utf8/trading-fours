@@ -191,7 +191,7 @@ function HomePage() {
               <a
                 onMouseEnter={() => setIsTooltipVisible(true)}
                 onMouseLeave={() => setIsTooltipVisible(false)}
-                href="https://github.com/Stanley-Wang910/spotify-rec-engine"
+                href="https://github.com/stanley-utf8/trading-fours"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover-effect-link"
@@ -233,8 +233,20 @@ function HomePage() {
             &nbsp;Spotify recommender, <br />
             meant to inspire your streamlined discovery of good music. <br />
             <br />
-            Personal accounts currently need to be manually whitelisted for
-            access, but you can still explore the demo below!
+            Note: Sadly, Spotify has{" "}
+            <a
+              href="https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover-effect-link"
+              data-replace="deprecated"
+            >
+              <span>deprecated</span>
+            </a>{" "}
+            some APIs that Trading Fours relies on, but I still have a lot of
+            love for this project, so I'm keeping the site up for now, even
+            though recommendations won't work. <br />
+            <br />I hope you keep discovering.
             <br />
             <div className="absolute mt-6 translate-x-[0vw]">
               <HoverBorderGradient

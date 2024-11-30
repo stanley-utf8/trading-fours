@@ -131,7 +131,7 @@ const Navbar = ({ token, setToken, setRecommendations, isMobile }) => {
         </button>
         <div className="flex items-center space-x-4 px-[60px]">
           <a
-            href="https://github.com/Stanley-Wang910/spotify-rec-engine"
+            href="https://github.com/stanley-utf8/trading-fours"
             target="_blank"
             rel="noopener noreferrer"
             className=" text-custom-brown hover:text-yellow-700"

@@ -27,8 +27,8 @@ trading fours is your own personalized Spotify recommendation engine.
 ## Contact
 
     Email: wangstanley910@gmail.com
-    School Email: stanley.wang@mail.mcgill.ca
-    LinkedIn: https://www.linkedin.com/in/stanley910/
+    University Email: stanley.wang@mail.mcgill.ca
+    LinkedIn: https://www.linkedin.com/in/stanley-utf8/
 
 ## Data Sources
 
