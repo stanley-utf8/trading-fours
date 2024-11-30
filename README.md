@@ -8,9 +8,10 @@ Trading Fours is your own personalized Spotify recommendation engine.
 - Its thinking is influenced by what you have been listening to as of late, and will use that data to tailor the songs it recommends to you
 - Behind the scenes, user and song info is being safely handled and stored using MySQL, and the bulk of the recommendations is being done via Python, where playlist / track data is being processed and computed in a ~45 dimensional space against a dataset of over 200,000+ songs (and growing!) to provide the best recommendations
 
-## Showcase Video
+## Showcase 
+Video:
 
-[![YouTube Video Demo](https://github.com/user-attachments/assets/b10b195e-9931-4f60-8f27-472a6f421d10)](https://youtu.be/vhLH-nkAxKA?si=VowvksWtWva9jXmC)
+[![YouTube Video Demo](https://github.com/user-attachments/assets/b10b195e-9931-4f60-8f27-472a6f421d10)](https://www.youtube.com/watch?v=sx5btkY24hQ)
 ![t4-2](https://github.com/user-attachments/assets/4c156f4c-ce57-4df9-a797-24af25525b14)
 
 
