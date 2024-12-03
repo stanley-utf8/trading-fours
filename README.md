@@ -2,7 +2,7 @@
 
 Trading Fours is your own personalized Spotify recommendation engine. 
 
-**Important Update**: (No longer functional as of 11/27/2024, when Spotify [deprecated](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api) core API endpoints: (Audio Features & Related Artists)
+**Important Update**: (I sadly took Trading Fours down on 12/03/2024, as it was rendered no longer functional when Spotify [deprecated](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api) some core API endpoints I was using to get track features: (Audio Features & Related Artists)
 
 - Search for a playlist or song, or browse your own library of saved playlists directly on the site, and Trading Fours will recommend alike tracks based on genre & track attributes
 - Its thinking is influenced by what you have been listening to as of late, and will use that data to tailor the songs it recommends to you
